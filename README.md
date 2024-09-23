@@ -1,3 +1,9 @@
+
+Torstai 12.9.2024
+Matkalasku Espoo-Tre-Espoo
+5h Tiimipäivä
+Lasku Goforelle
+
 MA 16.9
 3: Ohjelmistokehitysympäristön valmistelu, ohjelmistoasennukset, käyttäjätunnukset, 3 tuntia
 0.25: Daily: 15 min (pyöristetty 0,25 tuntiin)
