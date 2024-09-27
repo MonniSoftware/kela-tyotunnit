@@ -35,6 +35,27 @@ PE 20.9
 
 MA 23.9
 0.25: Daily
-1: Perehdytys
-1: Perehdytys
+0.5: security training
+1: confluence perehdytys
+0.25: salasana tuntikirjauksiin
+1: Skypen alustus
+2: Perehdytys Juha Linnanen
+1: Ohjelmistokehitys, työkalut
+
+TI 24.9
+2: Ohjelmistokehitys, työkalut
+1: weekly
+2: juna intro
+1: upgrade system libs
+1: software installations
+
+KE 
+6: Jaksosuunnittelu
+
+TO
+5.5: Jaksosuunnittelu
+
+PE
+1: Daily
+3: Ohjelmistokehitys, ci/cd
 
