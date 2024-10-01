@@ -59,3 +59,11 @@ PE
 1: Daily
 3: Ohjelmistokehitys, ci/cd
 
+---
+18.75
+
+MA 1.10
+0.5: Jira perehdytys
+0.5: Tiketin rakenne, tiketin luominen Jiraan
+3.5: Retro, demo, sprint planning
+
