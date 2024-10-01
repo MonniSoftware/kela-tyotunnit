@@ -59,11 +59,12 @@ PE
 1: Daily
 3: Ohjelmistokehitys, ci/cd
 
+Käytetään: 2+1.25+6+5.5+4=18.75
+Kelan kirjanpidossa näkyy maanantain 1.10 tunnit tämän viikon perjantailla
+
 ---
 18.75
 
 MA 1.10
-0.5: Jira perehdytys
-0.5: Tiketin rakenne, tiketin luominen Jiraan
-3.5: Retro, demo, sprint planning
+3.75: Jira perehdytys, tiketin luominen Jiraan ja rakenne, retro, demo, sprint planning
 
